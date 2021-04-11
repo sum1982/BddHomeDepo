@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="49.029479">
+<testcase classname="HomeDepo Rental Feature" name="HomeDepo Rental Test Scenario" time="21.115149">
+<system-out><![CDATA[Given User is already on HomeDepo Page......................................passed
+When title of the home page is HomeDepo.....................................passed
+Then user clicks on local ad................................................passed
+Then user clicks on tool rental.............................................passed
+Then user clicks on tillers.................................................passed
+Then user clicks on check availability......................................passed
+Then user clicks on check nearby stores.....................................passed
+Then user clicks search box and enters "60133"..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="HomeDepo Rental Feature" name="HomeDepo Husky Test Scenario" time="8.419568">
+<system-out><![CDATA[Given user is on ad page....................................................passed
+When user clicks on husky link..............................................passed
+Then user clicks on tool bags...............................................passed
+Then user sees husky tool bags..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="HomeDepo Rental Feature" name="HomeDepo Career Test Scenario" time="11.068007">
+<system-out><![CDATA[Given user is on HomeDepo site..............................................passed
+When user clicks on localad.................................................passed
+Then user clicks on careers.................................................passed
+Then user clicks on Search and apply........................................passed
+Then user enters "cashier" and clicks on location...........................passed
+Then user sees jobs near location entered...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="HomeDepo Rental Feature" name="HomeDepo Blinds Test Scenario" time="8.426755">
+<system-out><![CDATA[Given user is already on local ad...........................................passed
+When user clicks on blinds link.............................................passed
+Then user click on wood blinds..............................................passed
+Then user selects width and height and clicks on update.....................passed
+Then user sees results......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
